@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Session 1</string>
+    <string name="app_name">Homework 1</string>
     <string name="enter_num">Please, enter the number:</string>
     <string name="press">Press</string>
     <string name="chosen_number">The number you chose is \u0020</string>
